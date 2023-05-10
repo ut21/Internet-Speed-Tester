@@ -1,5 +1,5 @@
 # Internet Speed Tester
-The python script checking for internet speed is run every hour (using a cronjob), this data is appended to a CSV file. Another python script is run every day (using another cronjob) to plot a graph of internet speed vs time.
+The python script checking for internet speed is run every hour (using a cronjob), this data is appended to a CSV file. Another python script is run every day (using another cronjob) to plot a graph of internet speed vs time. Mostly built as a use case for working with cronjob and matplotlib
 
 ## Tech Used:
 * matplotlib
